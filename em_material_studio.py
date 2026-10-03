@@ -5,7 +5,7 @@ Modules:
   2. Shielding Effectiveness (SE) Calculator (S-parameters from .txt: SET, SER, SEA)
   3. Dielectric, Magnetic & Cole-Cole Analysis (Permittivity, Permeability, Cole-Cole, AC Conductivity, Attenuation from .csv)
 
-Developed by: Arun B, School of Physics, University of Hyderabad
+Developed by: Arun B, School of Physics, University of Hyderabad.
 Website: https://sites.google.com/view/arunb/home
 """
 
