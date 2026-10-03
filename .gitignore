@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Legacy intermediate scripts (excluded in favor of final REL_simulation_software)
+dielctric tand and cole cole.py
+REL -thickness -frequency 3D and 2D plot and excel file.py
+txt_SE_Calculator_Sparameters_RL_IL_SingleGraph double y graph sign corrected.py
+rel_simulation_gui.py
+Details.txt
+original_501pts_data_backup/
+
+# Generated simulation outputs (plots and spreadsheets)
+*.xlsx
+*.png
+!sample_data/*.png
+
+# Old testing folder with generated results
+Ti3AlC2-coreshell(500)-80-20/
+
+# Environment / OS
+.env
+.venv
+env/
+venv/
+.DS_Store
+Thumbs.db
+
+# Executable (Upload via GitHub Releases to keep git repository lightweight)
+REL_Simulation_Software.exe
